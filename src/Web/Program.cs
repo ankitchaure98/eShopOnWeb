@@ -1,5 +1,5 @@
 ﻿//My first Change in Code
-// this was second time
+// this was second time.
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
