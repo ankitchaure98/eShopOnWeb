@@ -7,7 +7,7 @@ on: workflow_dispatch
 env:
   RESOURCE-GROUP: rg-eshoponweb-githubcicd
   LOCATION: westeurope
-  TEMPLATE-FILE: infra/webapp.bicep
+  #TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 58439c86-8373-49a7-a713-fa8ad7f337b4
   WEBAPP-NAME: devops-webapp-westeurope-178021579
 
